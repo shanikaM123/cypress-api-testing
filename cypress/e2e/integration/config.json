@@ -1,0 +1,7 @@
+{
+    "post_url": "https://dummy.restapiexample.com/api/v1/create",
+    "Bearer_Rest": "e2360bb230c2fc83af7451f8346d9fcdb699879e3a8f14462a2187f9d670675e",
+    "wheatherApi_baseurl":"https://api.openweathermap.org/data/2.5/weather?",
+    "app_id":"23f2f1370e52150c180395abdaf62a0f"
+
+}
